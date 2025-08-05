@@ -1,3 +1,6 @@
+## Recomandari generale
+- 
+
 
 ## Semestrul 1
 1. Data Oriented Design în Dezvoltarea de Jocuri*
