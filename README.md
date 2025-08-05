@@ -1,8 +1,9 @@
-# Optionale anul 3
-- In acest repo se afla informatii despre optionale pentru specializarea Informatica, anul 3, 2025-2026.
+# Sfaturi pentru optionale
+> In acest repo se afla informatii despre optionale pentru specializarea Informatica, anul 3, 2025-2026.
 
 ### Cum poti contribui?
 - Orice observatie legata de profesori, sistem de notare, dificultate, utilitate, proiecte etc. este binevenita.
+- Contributiile se vor face in [acest fisier](./collective_knowledge.md).
 - Pentru referinta, gasiti fisele disciplinelor [aici](https://drive.google.com/drive/folders/1ZL1Ek6niqwQOiJre_UTiGrdZXrZXHWYB?usp=sharing).
 - Contribuire:
   - Dati fork la repo
