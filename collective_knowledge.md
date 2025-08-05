@@ -1,14 +1,14 @@
 
 ## Semestrul 1
-1. [industrie] Data Oriented Design în Dezvoltarea de Jocuri
+1. Data Oriented Design în Dezvoltarea de Jocuri*
 
 2. Introducere în robotica
 
-3. [industrie] Java Script server side: NodeJS & GraphQL
+3. Java Script server side: NodeJS & GraphQL*
 
 4. Blockchain - concepte, tehnologii și aplicații
 
-5. [industrie] Robotic Process Automation (RPA) folosind platforma UiPath
+5. Robotic Process Automation (RPA) folosind platforma UiPath*
 
 6. Introducere în programarea jocurilor pe calculator
 
@@ -22,30 +22,26 @@
 
 11. Introducere în Reinforcement Learning
 
-12. Introducere in Cluster Computing (sem 1)
+12. Introducere in Cluster Computing (sem 1)**
 
-13. [industrie] Dezvoltarea jocurilor 3D folosind Unreal Engine 5
+13. Dezvoltarea jocurilor 3D folosind Unreal Engine 5*
 
 14. Tehnici de simulare
 
 15. Inteligenta Artificiala în Educație
 
 16. Prelucrarea Semnalelor
-- item 1
-- item 1.5
 
-1.  Arheologia mașinilor inteligente
+17. Arheologia mașinilor inteligente
 
-2.  Concepte și aplicații în Vederea Artificială
+18. Concepte și aplicații în Vederea Artificială
     - https://opencv.org/
 
-3.  Implementarea concurenței în limbaje de programare
+19. Implementarea concurenței în limbaje de programare
 
-4.  Baze de date, de la NoSql la Vector DBs
+20. Baze de date, de la NoSql la Vector DBs
 
-5.  Tehnologii Cloud Computing Aplicate în Machine Learning
-
-
+21. Tehnologii Cloud Computing Aplicate în Machine Learning
 
 ## Semestrul 2
 1. Metode Formale în Ingineria Software
@@ -60,13 +56,13 @@
 
 5. Fundamentele proiectării compilatoarelor
 
-6. Introducere in Cluster Computing (sem 2)
+6. Introducere in Cluster Computing (sem 2)**
 
 7. Strategii de planificare a unei echipe de roboți (SPER)
 
 8. Testarea Sistemelor Software
 
-9.  [industrie] Învățarea rețelelor neurale adânci (Intensiv)
+9.  Învățarea rețelelor neurale adânci (Intensiv)*
 
 10. Introducere în evaluarea performanțelor sistemelor informatice
 
@@ -74,7 +70,7 @@
 
 12. Programarea aplicațiilor de simulare
 
-13. [industrie] Învățare automată în Vedere Artificială
+13. Învățare automată în Vedere Artificială*
 
 14. Sistemul de operare Linux
 
@@ -84,10 +80,16 @@
 
 17. Elemente de securitate și logică aplicată
 
-18. [industrie] Production engineering
+18. Production engineering*
 
 19. Dezvoltarea aplicațiilor software securizate
 
 20. Tehnologii new media
 
-21. Inteligența artificială neuro-simbolică
+21. Inteligența artificială neuro-simbolică.   
+
+
+---
+
+\* industrie  
+\** e acelasi in ambele semestre
