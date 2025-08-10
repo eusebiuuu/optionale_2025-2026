@@ -5,11 +5,11 @@
 - Orice observatie legata de profesori, sistem de notare, dificultate, utilitate, proiecte etc. este binevenita.
 - Contributiile se vor face in [acest fisier](./collective_knowledge.md).
 - Pentru referinta, gasiti fisele disciplinelor [aici](https://drive.google.com/drive/folders/1ZL1Ek6niqwQOiJre_UTiGrdZXrZXHWYB?usp=sharing).
-- Contribuire:
-  - Dati fork la repo
-  - Adaugati ce informatii relevante aveti despre optionale
-  - Dati push cu modificarile voastre pe repo-ul vostrul forked
-  - Faceti Pull Request catre repo-ul acesta din repo-ul forked
+- Cum contribui?
+  - Dai `fork` la repo
+  - Adaugi ce informatii relevante ai despre optionale
+  - Dai push cu modificarile tale pe repo-ul tau forked
+  - Faci Pull Request catre repo-ul acesta din repo-ul forked
 
 
 ### Reguli
