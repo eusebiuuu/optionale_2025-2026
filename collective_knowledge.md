@@ -1,11 +1,15 @@
 ## Recomandari generale
-- 
+- Documentati-va despre ce si cum se preda pe repo-urile celor mai mari
+  - https://github.com/FMI-Materials/FMI-Bachelor-Materials/tree/d14988b46e25d097e6fa614872ceddabc4774e9f/Year%20III/Optionals
+  - https://github.com/skpha13/University-Work/tree/main/Third%20Year
+  - https://github.com/anamariapanait10/FMI-BS-Resources/tree/master/Year%20III
 
 
 ## Semestrul 1
 1. Data Oriented Design în Dezvoltarea de Jocuri*
 
 2. Introducere în robotica
+    - nu recomand, mananca enorm de mult timp, teme saptamanale si 2 proiecte complexe, nivelul de dificultate a fost unul foarte ridicat in opinia mea (si mai avusesem experienta in trecut cu robotica), materia este cat de cat utila dar nu mi se pare ca merita timpul acordat acestei materii mai ales fiind in ultimul an. Prezenta e obligatorie la toate laboratoarele si la jumatate + 1 din cursuri (chiar nu recomand studentilor care mai si lucreaza). Profesorii sunt duri la notare si au pretentii foarte mari (atat la teme cat si la proiecte).
 
 3. Java Script server side: NodeJS & GraphQL*
 
@@ -31,7 +35,7 @@
 
 11. Introducere în Reinforcement Learning
     - Cel mai lejer optional de AI din semestrul acesta, notarea foarte simpla, faceti un powerpoint si treceti cu 10, dar nici nu o sa invatati prea mult RL, e bataie pentru optionalul asta, trebuie sa aveti medie mai mare sa intrati la el
-    - 
+    - recomand, super lejer datorita profului (ca materia e grea si nu pot sa spun ca am ramas cu ceva), am avut de facut o prezentare ppt a 4 articole pe o anumita tema (in echipe de 3-4) si am luat 10 chiar daca nimeni din echipa nu intelegea cu adevarat chestiile de acolo (asta a fost posibil si pt ca profu din fericire nu a pus intrebari la prezentare, iar notele pe care le da sunt ori 9 ori 10). Nu am fost aproape la niciun curs/laborator si nici nu consider ca e nevoie ca sa iei 10 la aceasta materie. 
 
 12. Introducere in Cluster Computing (sem 1)**
     - Suna promitator, ar trebui sa faceti chestii de Big Data si cum sa va gestionati datele ca sa puteti lucra cu modele de ML foarte mari
@@ -73,7 +77,7 @@
 
 2. Protocoale criptografice
    - este foarte chill si se trece usor
-   - 
+   - super lejer, profu ne-a promis ca o sa ne dea un model inainte de examen (cu tot cu rezolvari) iar la examen o sa primim fix modelul ala cu numere schimbate si chiar s-a tinut de cuvant. Eu am fost doar la seminarii si mi se pare ca trebuie mers la ele ca sa intelegi rezolvarile pentru examen (dar am auzit ca unii s-au descurcat si fara sa mearga deloc). 
 
 3. Tehnici de Optimizare
     - Invatati mai multe tehnici de optimizare folosite in ML si nu numai, ajuta pentru consolidarea knowledgeului, daca nu ma insel si asta e una dintre putinele materii la care dati examen
@@ -96,7 +100,7 @@
 
 11. Introducere în prelucrarea limbajului natural
     - Materie chill, din pacate nu prea o sa invatati NLP real, e un pacat, dar puteti sa treceti usor la ea, sa faceti un proiect unde invatati NLP singuri si sa va luati nota usor, sau daca participati la NitroNLP treceti cu participarea si cu rezultatul de acolo
-    - 
+    - lejer, am avut de facut un proiect (cod, documentatie de tip paper si ppt) in echipe de 2-4 persoane.  Recomand sa va duceti la Nitro NLP pt ca puteti echivala proiectul si e mult mai lejer (aveti de scris doar cod si ppt si scapati intr-un weekend). Totusi daca nu reusiti sa mergeti recomand sa prezentati la Miruna pt ca e mult mai lejer. Nu merita sa mergeti la cursuri deloc, iar la laboratoare puteti sa mergeti la primele daca vreti dar nu e necesar nici acolo. 
 
 12. Programarea aplicațiilor de simulare
     - Nu are neaparat legatura cu AI-ul materia, mai mult cu game engineurile si cu simularile, dar daca faceti un proiect de RL se preteaza sa-l prezentati aici
@@ -115,7 +119,7 @@
 16. Securizarea și Automatizarea Rețelelor pentru Întreprinderi
 
 17. Elemente de securitate și logică aplicată
-
+    - mediu, nu e chiar cel mai lejer optional dar tot l-as fi ales pentru ca iti formeaza o opinie despre masterul de securitate si pentru ca e relativ usor de trecut. Materia are 5 module si pentru fiecare primesti cate o nota. Primul modul (a tinut 2 sapt, prima a fost cu predare, a doua a fost cu examen) a fost de mate si am dat un examen care a fost super lejer si nici macar nu avea legatura cu ce invatasem pana atunci (era ceva cu un tabel de adevar, chestii de bun simt si super usoare).  Al doilea modul a fost o saptamana cu Vasile si una cu Dragan (am primit cate o nota de la fiecare si s-a facut media). Mie mi s-a parut cel mai greu modulul asta, pt nota a trebuit sa urmam pasii facuti de profi in packet tracer (eu am ramas in urma la amandoi dar unii din colegii mei au reusit sa tina pasul -- nu chiar asa multi tho). Al treilea si al patrulea modul (4 sapt in total) este de logica la curs si Lean la laborator. Primesti cate o nota la fiecare. Am avut voie cu materiale atat la curs cat si la laborator deci a fost ok. Modulul 5 este de ethical hacking si a trebuit sa urmam un totorial care avea si rezolvari (lejer).  Materia asta mananca mult timp si necesita prezenta constanta pt a lua notele (partea buna e ca nu mai trebuie sa dai examen daca strangi peste 5). 
 18. Production engineering*
 
 19. Dezvoltarea aplicațiilor software securizate
