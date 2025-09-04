@@ -38,6 +38,7 @@
     - daca iti place e easy
 
 8. Managementul amenințărilor cibernetice
+    - Se face cu Dragan
 
 9.  Calcul Numeric în Informatică
     - Non 100% materie de AI, dar se face si multe chestii de AI/ML, se fac concepte importante de analiza si algebra liniara aplicate si va ajuta sa va consolidati knowledgeul, spre exemplu Least squares, PCA, retele neuronale etc, predata de 3 profi, Irofti, Rusu si Patrascu, fiecare preda anumite cursuri, printre singurele optionale cu examen
@@ -141,8 +142,10 @@
 
 
 16. Securizarea și Automatizarea Rețelelor pentru Întreprinderi
+    - Se face cu Dragan
 
 17. Elemente de securitate și logică aplicată
+    - are si Dragan ore aici
     - mediu, nu e chiar cel mai lejer optional dar tot l-as fi ales pentru ca iti formeaza o opinie despre masterul de securitate si pentru ca e relativ usor de trecut. Materia are 5 module si pentru fiecare primesti cate o nota. Primul modul (a tinut 2 sapt, prima a fost cu predare, a doua a fost cu examen) a fost de mate si am dat un examen care a fost super lejer si nici macar nu avea legatura cu ce invatasem pana atunci (era ceva cu un tabel de adevar, chestii de bun simt si super usoare).  Al doilea modul a fost o saptamana cu Vasile si una cu Dragan (am primit cate o nota de la fiecare si s-a facut media). Mie mi s-a parut cel mai greu modulul asta, pt nota a trebuit sa urmam pasii facuti de profi in packet tracer (eu am ramas in urma la amandoi dar unii din colegii mei au reusit sa tina pasul -- nu chiar asa multi tho). Al treilea si al patrulea modul (4 sapt in total) este de logica la curs si Lean la laborator. Primesti cate o nota la fiecare. Am avut voie cu materiale atat la curs cat si la laborator deci a fost ok. Modulul 5 este de ethical hacking si a trebuit sa urmam un totorial care avea si rezolvari (lejer).  Materia asta mananca mult timp si necesita prezenta constanta pt a lua notele (partea buna e ca nu mai trebuie sa dai examen daca strangi peste 5). 
 18. Production engineering*
 
