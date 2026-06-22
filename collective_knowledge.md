@@ -16,10 +16,10 @@
     - vrajeala, se face 90% online cu nota pe proiect 
 
 4. Blockchain - concepte, tehnologii și aplicații 
-    - cica femeia care preda e a dracu
-    - ce faci la curs nu se potriveste cu ce faci la lab
-    - la lab te pune sa rezolvi singur
-    - sunt pretentiosi la evaluare
+    - foarte lejera profa, am luat 10 cu un proiect facut in 2 zile si cateva teme de laborator
+    - e super si daca chiar vrei sa inveti serios ca profa stie multe si sunt link-uri la materiale peste tot
+    - in afara de proiect, pentru nota mai trebuie sa faci si cateva teme de laborator - daca faci mai multe ai si bonus-uri din ele, mai ales ca nu sunt grele
+    - prezenta nu conteaza, poti sa te duci la un lab si sa-i prezinti temele precedente
 
 5. Robotic Process Automation (RPA) folosind platforma UiPath*
     - cica este chill
@@ -46,13 +46,17 @@
     - multa matematica
 
 10. Sisteme distribuite
-     - destul de chill la notare
-     - nu se face fff mult
+     - nota se ia din teme de laborator pe care le faci rapid cu LLM-uri si prezentari de concepte + implementarea unei aplicatii dintr-un paper ales de prof
+     - la proiect e mai mare bataia de cap ca vrea demo live si trebui sa si explici cum merge pe acolo si sa faci documentatia; da e pe echipe asa ca nu e prea mare stres
+     - profii sunt ok, se ia punctajul maxim destul de usor mai ales daca stii cat de cat ce ai facut acolo
+     - prezenta nu conteaza decat atunci cand trebuie sa prezinti temele
+     - cursul a fost online in 2025-2026
 
 11. Introducere în Reinforcement Learning
     - Cel mai lejer optional de AI din semestrul acesta, notarea foarte simpla, faceti un powerpoint si treceti cu 10, dar nici nu o sa invatati prea mult RL, e bataie pentru optionalul asta, trebuie sa aveti medie mai mare sa intrati la el
     - in anul 2023-2024 proful de curs nu venea; faceau cu un doctorand
-    - recomand, super lejer datorita profului (ca materia e grea si nu pot sa spun ca am ramas cu ceva), am avut de facut o prezentare ppt a 4 articole pe o anumita tema (in echipe de 3-4) si am luat 10 chiar daca nimeni din echipa nu intelegea cu adevarat chestiile de acolo (asta a fost posibil si pt ca profu din fericire nu a pus intrebari la prezentare, iar notele pe care le da sunt ori 9 ori 10). Nu am fost aproape la niciun curs/laborator si nici nu consider ca e nevoie ca sa iei 10 la aceasta materie. 
+    - recomand, super lejer datorita profului (ca materia e grea si nu pot sa spun ca am ramas cu ceva), am avut de facut o prezentare ppt a 4 articole pe o anumita tema (in echipe de 3-4) si am luat 10 chiar daca nimeni din echipa nu intelegea cu adevarat chestiile de acolo (asta a fost posibil si pt ca profu din fericire nu a pus intrebari la prezentare, iar notele pe care le da sunt ori 9 ori 10). Nu am fost aproape la niciun curs/laborator si nici nu consider ca e nevoie ca sa iei 10 la aceasta materie.
+    - recomand, prima data cand l-am vazut pe prof a fost la prezentare, 10/10 omu, no stress, trebuie doar sa respecti cerintele proiectului si iei cel putin 9; 10 daca esti putin mai harnic si te joci cu alte environment-uri
 
 12. Introducere in Cluster Computing (sem 1)**
     - Suna promitator, ar trebui sa faceti chestii de Big Data si cum sa va gestionati datele ca sa puteti lucra cu modele de ML foarte mari
@@ -90,7 +94,12 @@
     - Este optionalul de ML de care stiu sa va spun cel mai putin, din cate stiu faceti doar tooluri si chestii care va ajuta sa implementati ML in aplicatiile voastre, ca APIuri sau ca platforme sau ca orice, nu o sa invati ML adevarat din cate stiu
 
 ## Semestrul 2
+
 1. Metode Formale în Ingineria Software
+- Foarte lejera materia, faci 5 saptamani laburi si cursuri si dupa sunt doar prezentari
+- Prezenta nu conteaza decat cand trebuie sa prezinti proiectul
+- 100% nota din proiect
+- Daca vrei 10 trebuie sa te chinui putin la prezentarea de proiect
 
 2. Protocoale criptografice
    - este foarte chill si se trece usor
@@ -120,11 +129,11 @@
 10. Introducere în evaluarea performanțelor sistemelor informatice
 
 11. Introducere în prelucrarea limbajului natural
-    - Materie chill, din pacate nu prea o sa invatati NLP real, e un pacat, dar puteti sa treceti usor la ea, sa faceti un proiect unde invatati NLP singuri si sa va luati nota usor, sau daca participati la hackatonul NitroNLP \(organizat de ei\) treceti cu participarea si cu rezultatul de acolo
+    - Materie chill, din pacate nu prea o sa invatati NLP real, e un pacat, dar puteti sa treceti usor la ea, sa faceti un proiect unde invatati NLP singuri si sa va luati nota usor, sau daca participati la hackatonul NitroNLP (organizat de ei) treceti cu participarea si cu rezultatul de acolo
     - la laburi se dau teme si se prezinta dar e lejer overall
     - nu e facuta minunat materia, putin vrajeala, dar poti sa si faci un proiect mai complicat daca vrei
     - Materie chill, din pacate nu prea o sa invatati NLP real, e un pacat, dar puteti sa treceti usor la ea, sa faceti un proiect unde invatati NLP singuri si sa va luati nota usor, sau daca participati la NitroNLP treceti cu participarea si cu rezultatul de acolo
-    - lejer, am avut de facut un proiect (cod, documentatie de tip paper si ppt) in echipe de 2-4 persoane.  Recomand sa va duceti la Nitro NLP pt ca puteti echivala proiectul si e mult mai lejer (aveti de scris doar cod si ppt si scapati intr-un weekend). Totusi daca nu reusiti sa mergeti recomand sa prezentati la Miruna pt ca e mult mai lejer. Nu merita sa mergeti la cursuri deloc, iar la laboratoare puteti sa mergeti la primele daca vreti dar nu e necesar nici acolo. 
+    - lejer, am avut de facut un proiect (cod, documentatie de tip paper si ppt) in echipe de 2-4 persoane.  Recomand sa va duceti la Nitro NLP pt ca puteti echivala proiectul si e mult mai lejer (aveti de scris doar cod si ppt si scapati intr-un weekend). Totusi daca nu reusiti sa mergeti recomand sa prezentati la Miruna pt ca e mult mai lejer. Nu merita sa mergeti la cursuri deloc, iar la laboratoare puteti sa mergeti la primele daca vreti dar nu e necesar nici acolo.
 
 12. Programarea aplicațiilor de simulare
     - Nu are neaparat legatura cu AI-ul materia, mai mult cu game engineurile si cu simularile, dar daca faceti un proiect de RL se preteaza sa-l prezentati aici
@@ -137,8 +146,15 @@
 14. Sistemul de operare Linux
 
 15. Introducere în cercetare și bioinformatică
-    - Teoretic nu este o materie de AI, dar e de cercetare si asa are relevanta si pentru cei doritori de AI, partea de biologie puteti sa o ignorati daca nu va place, si daca va place aveti un bonus, invatati mai multe lucruri utile despre cercetare, iar la final o sa trebuiasca sa dati review la un paper modern si puteti sa reviewuti si sa prezentati un paper de AI, multi au facut asta aici
-    - Paun e foarte chill aici
+    - O materie super faina, nu va speriati de Paun, e super chill aici, iti pune 10 la prezentare oricat de oribila e, doar trebuie sa stii cat de cat ce se intampla pe acolo
+    - Cum v-ati astepta, se face destul de multa biologie, da nu da test din asta sau ceva
+    - Nota e 20% prezenta, 40% teme, 20% referat final (rezumatul prezentarii), 20% prezentarea in fata clasei
+    - La teme e mai multa biologie ca sunt cam 8 teme dintre care in vreo 5 trebui sa explici in 500 de cuvinte niste chestii de biologie - nu e greu ca poti doar sa scrii chestii si definitii random da daca chiar nu ai chef de asa ceva n-o sa-ti placa
+    - Pe langa chestii de biologie se face si multa cercetare: cum se publica paper-uri, clasificare de edituri, cum se scrie un paper - si multe multe lucruri super utile si pentru redactarea licentei, tips & tricks, greseli comune etc.
+    - Toate temele se fac in latex, deci poate ajuta la scrierea licentei ca te obisnuiesti cu redactarea corecta
+    - La clasa se discuta chestii foarte interesante despre biologie si natura si genetica
+    - Cel putin in 2025-2026 comunitatea care a fost la acest optional a fost super misto
+    - Prezentarea si temele pot fi o bataie de cap daca vrei ceva simplu sa te concentrezi pe licenta
 
 
 16. Securizarea și Automatizarea Rețelelor pentru Întreprinderi
@@ -147,7 +163,9 @@
 17. Elemente de securitate și logică aplicată
     - are si Dragan ore aici
     - mediu, nu e chiar cel mai lejer optional dar tot l-as fi ales pentru ca iti formeaza o opinie despre masterul de securitate si pentru ca e relativ usor de trecut. Materia are 5 module si pentru fiecare primesti cate o nota. Primul modul (a tinut 2 sapt, prima a fost cu predare, a doua a fost cu examen) a fost de mate si am dat un examen care a fost super lejer si nici macar nu avea legatura cu ce invatasem pana atunci (era ceva cu un tabel de adevar, chestii de bun simt si super usoare).  Al doilea modul a fost o saptamana cu Vasile si una cu Dragan (am primit cate o nota de la fiecare si s-a facut media). Mie mi s-a parut cel mai greu modulul asta, pt nota a trebuit sa urmam pasii facuti de profi in packet tracer (eu am ramas in urma la amandoi dar unii din colegii mei au reusit sa tina pasul -- nu chiar asa multi tho). Al treilea si al patrulea modul (4 sapt in total) este de logica la curs si Lean la laborator. Primesti cate o nota la fiecare. Am avut voie cu materiale atat la curs cat si la laborator deci a fost ok. Modulul 5 este de ethical hacking si a trebuit sa urmam un totorial care avea si rezolvari (lejer).  Materia asta mananca mult timp si necesita prezenta constanta pt a lua notele (partea buna e ca nu mai trebuie sa dai examen daca strangi peste 5). 
+
 18. Production engineering*
+- predat de Adobe engineers cu tehnologiile folosite la munca
 
 19. Dezvoltarea aplicațiilor software securizate
 
