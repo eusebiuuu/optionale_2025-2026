@@ -56,7 +56,7 @@
     - Cel mai lejer optional de AI din semestrul acesta, notarea foarte simpla, faceti un powerpoint si treceti cu 10, dar nici nu o sa invatati prea mult RL, e bataie pentru optionalul asta, trebuie sa aveti medie mai mare sa intrati la el
     - in anul 2023-2024 proful de curs nu venea; faceau cu un doctorand
     - recomand, super lejer datorita profului (ca materia e grea si nu pot sa spun ca am ramas cu ceva), am avut de facut o prezentare ppt a 4 articole pe o anumita tema (in echipe de 3-4) si am luat 10 chiar daca nimeni din echipa nu intelegea cu adevarat chestiile de acolo (asta a fost posibil si pt ca profu din fericire nu a pus intrebari la prezentare, iar notele pe care le da sunt ori 9 ori 10). Nu am fost aproape la niciun curs/laborator si nici nu consider ca e nevoie ca sa iei 10 la aceasta materie.
-    - recomand, prima data cand l-am vazut pe prof a fost la prezentare, 10/10 omu, no stress, trebuie doar sa respecti cerintele proiectului si iei cel putin 9; 10 daca esti putin mai harnic si te joci cu alte environment-uri
+    - recomand, prima data cand l-am vazut pe prof a fost la prezentare, 10/10 omu, no stress, trebuie doar sa respecti in mare cerintele proiectului si iei cel putin 9; 10 daca esti putin mai harnic si te joci cu alte environment-uri
 
 12. Introducere in Cluster Computing (sem 1)**
     - Suna promitator, ar trebui sa faceti chestii de Big Data si cum sa va gestionati datele ca sa puteti lucra cu modele de ML foarte mari
@@ -99,10 +99,11 @@
 - Foarte lejera materia, faci 5 saptamani laburi si cursuri si dupa sunt doar prezentari
 - Prezenta nu conteaza decat cand trebuie sa prezinti proiectul
 - 100% nota din proiect
-- Daca vrei 10 trebuie sa te chinui putin la prezentarea de proiect
+- Daca vrei 10 trebuie sa te chinui putin la proiect
 
 2. Protocoale criptografice
    - este foarte chill si se trece usor
+   - foarte important: ce se preda aici e aproape la fel cu ce se preda la Securitatea Sistemelor Informatice (SSI); singura diferenta e ca proful de aici explica super bine si are multe materiale bine explicatem, mai ales rezumatele complete de materie - vorbiti cu laborantii sa vi le dea pentru ca va scutesc de foarte mult timp si nervi in a intelege materia de la SSI
    - super template, mega usor examenul, e cu materiale si model inainte
    - are matematica
    - super lejer, profu ne-a promis ca o sa ne dea un model inainte de examen (cu tot cu rezolvari) iar la examen o sa primim fix modelul ala cu numere schimbate si chiar s-a tinut de cuvant. Eu am fost doar la seminarii si mi se pare ca trebuie mers la ele ca sa intelegi rezolvarile pentru examen (dar am auzit ca unii s-au descurcat si fara sa mearga deloc). 
